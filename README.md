@@ -1,3 +1,5 @@
+<img width="440" height="274" alt="image" src="https://github.com/user-attachments/assets/debf24c7-6ec6-41c5-9451-d14befc73de3" />
+
 # Adidas-Sales-Analysis
 Excel dashboard analyzing Adidas sales performance, regional trends, and business insights.
 # 📊 Adidas Sales Analysis | Excel Dashboard Project
